@@ -20,3 +20,10 @@ vue语法 ；
             name:function(){代码}
         }
        }）
+       
+ 指令：v-on  简写@：事件监听
+      v-bind（简写：）动态绑定数据
+      v-html=“html”
+ 模板：字符串模板：template
+     HTML模板：基于DOM的模板，可以解析的HTML{{key值||简单的数字或者三目}}
+     render函数模板
